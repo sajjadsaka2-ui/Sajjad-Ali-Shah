@@ -1,0 +1,5 @@
+{
+  "name": "ScholarGo",
+  "description": "An intelligent scholarship eligibility engine that matches student profiles against a database of opportunities using Gemini AI.",
+  "requestFramePermissions": []
+}
